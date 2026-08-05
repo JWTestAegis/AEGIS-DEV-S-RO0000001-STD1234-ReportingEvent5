@@ -1,3 +1,4 @@
+#comment by hirabaru
 #log_info("Script Starts!", action="start")
 message("[AEGIS Logging]Script Starts!")
 
